@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RaviTambade/KnowitNodejsapp.git"
+    "url": "git+https://github.com/waghpurva/mysite.git"
   },
   "author": "Ravi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RaviTambade/KnowitNodejsapp/issues"
+    "url": "https://github.com/waghpurva/mysite.git/issues"
   },
-  "homepage": "https://github.com/RaviTambade/KnowitNodejsapp#readme",
+  "homepage": "https://github.com/waghpurva/mysite.git#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
